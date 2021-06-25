@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'NzgxODM2ODYxNDAwMDIzMDgx.X8DcUQ.MG9QvnSOAYguYAaKbJpndO7omLc',
+        token: 'NzgxODM2ODYxNDAwMDIzMDgx.X8DcUQ.HNQcBWxWDDzJGrXy9xYGFoFcZmU',
         prefix: '.me',
         activity: 'Songs on #aka_IMMORTALS.',
     },
