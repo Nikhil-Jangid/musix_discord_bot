@@ -8,9 +8,9 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODY5MjM5NTM3ODEyMDA0OTU1.YP7UZw.sMPuCpaNub0mj2jJMHqKm2HhMds',
-        prefix: '.me',
-        activity: 'Songs on #aka_IMMORTALS.',
+        token: 'INSERT_TOKEN_HERE',
+        prefix: 'INSERT_PREFIX_HERE',
+        activity: 'INSERT_ACTIVITY_STATUS_HERE',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
